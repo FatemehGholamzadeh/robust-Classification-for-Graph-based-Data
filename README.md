@@ -17,6 +17,7 @@ one of the algorithms proposed in the paper is as follows:
 in this section results that we obtained after reproducing the paper are showed:
 
 Comparison of the accuracy with respect to the size of the subgraph of an out-of-sample extended mode:
+![pic3](https://user-images.githubusercontent.com/44861408/194908189-5da4d4af-f673-41d2-b408-901c78a1cef3.jpg)
 
 
 Mean of Accuracies of the classification:
