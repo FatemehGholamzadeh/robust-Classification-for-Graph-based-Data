@@ -12,3 +12,13 @@ one of the algorithms proposed in the paper is as follows:
 
 
 
+## Experiments and Results:
+
+in this section results that we obtained after reproducing the paper are showed:
+
+Comparison of the accuracy with respect to the size of the subgraph of an out-of-sample extended mode:
+![Uploading pic3.jpg…]()
+
+
+Mean of Accuracies of the classification:
+![Uploading image.png…]()
