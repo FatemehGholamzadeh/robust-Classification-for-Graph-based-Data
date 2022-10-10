@@ -8,7 +8,7 @@ the code is an reproduction of results stated in this paper: https://link.spring
 
 one of the algorithms proposed in the paper is as follows:
 
-<img src="https://user-images.githubusercontent.com/44861408/194866528-5af3988e-0cde-4e5a-a48f-74be6eb6d951.png" width="600" height="200" />
+<img src="https://user-images.githubusercontent.com/44861408/194866528-5af3988e-0cde-4e5a-a48f-74be6eb6d951.png" width="600" height="300" />
 
 
 
