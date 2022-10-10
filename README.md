@@ -3,5 +3,12 @@ implementation of paper:
 Alaíz, C.M., Fanuel, M. & Suykens, J.A.K. Robust classification of graph-based data. Data Min Knowl Disc 33, 230–251 (2019). https://doi.org/10.1007/s10618-018-0603-9
 
 this repository consists of my final project for Big data course under Supervision of Prof. Mostafa Chehreghani at Amirkabir University of Technology.
-the code is an reproduction of results states in this paper: https://link.springer.com/article/10.1007/s10618-018-0603-9 
+the code is an reproduction of results stated in this paper: https://link.springer.com/article/10.1007/s10618-018-0603-9 
+
+
+one of the algorithms proposed in the paper is as follows:
+
+![image](https://user-images.githubusercontent.com/44861408/194866528-5af3988e-0cde-4e5a-a48f-74be6eb6d951.png)
+
+
 
