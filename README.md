@@ -21,4 +21,4 @@ Comparison of the accuracy with respect to the size of the subgraph of an out-of
 
 Mean of Accuracies of the classification:
 
-![image](https://user-images.githubusercontent.com/44861408/194906841-34382a3d-4a2f-4053-b10d-c21b7ee69b96.png| width=100)
+![image](https://user-images.githubusercontent.com/44861408/194906841-34382a3d-4a2f-4053-b10d-c21b7ee69b96.png | width=100)
